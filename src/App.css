@@ -1,3 +1,12 @@
+body{
+  background-image: url(../src/images/bg1.jpg);
+  background-attachment: fixed;
+}
+
+h2{
+  font-weight: bold;
+}
+
 .App {
   text-align: center;
 }
