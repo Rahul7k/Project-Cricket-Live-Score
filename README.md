@@ -1,7 +1,6 @@
 # Project Demo
-[Demo Link](#https://project-cricket-live-score.netlify.app/)
 
-
+#https://project-cricket-live-score.netlify.app/
 
 
 
